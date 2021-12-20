@@ -1,0 +1,41 @@
+Task 1 (30 marks):
+1. Describe the mechanism of ARP cache poisoning. (15 marks)
+
+ 
+2. Describe how to use netwox tool to poison ARP cache, and explain the meaning of the command line arguments. (10 marks)
+
+3. Screenshot of arp table to show the change before and after your attack. (5 marks)
+
+
+Task 2 (40 marks):
+1. Describe the mechanism of SYN Flooding Attack. (10 marks)
+
+2. Describe how to use netwox tool to attack, and explain the meaning of the command line arguments. (10 marks)
+
+
+3. Screenshot to show half-opened connection. (10 marks)
+
+
+4. Show the changes caused by turning on or off net.ipv4.tcp_syncookies and explain the reason of the changes. (10 marks)
+
+
+Task 3 (50 marks):
+
+1. Describe how to inject a "pwd" command using netwox tool, and explain the meaning of the command line arguments. Use screenshots to show the results using wireshark. (20 marks)
+
+
+2. Show the abnormal behavior you observed through wireshark and explain the reason of this abnormal behavior. (10 marks)
+
+
+3. Eliminate the abnormal packets using the netwox tool, explain your idea and
+your command, and describe the observed results(20 marks)
+
+
+Task 4 (30 marks):
+
+1. Describe how you create a reverse shell. (15 marks)
+
+2. Use screenshots to show you can run commands on the victim machine (15 marks)
+
+
+
