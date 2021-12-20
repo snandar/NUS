@@ -1,0 +1,11 @@
+# JEB decompiler WebAssembly Free Trial
+https://www.pnfsoftware.com/jeb/demowasm
+
+# Cutter - A Qt and C++ GUI for radare2 reverse engineering framework
+https://github.com/radareorg/cutter/releases/
+
+# Ghidra
+https://ghidra-sre.org/
+
+# Octopus
+https://github.com/pventuzelo/octopus

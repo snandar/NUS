@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "VPN Unlimited 무료 보안차단 해제/프록시"
+    },
+    "appDesc": {
+        "message": "VPN Unlimited - 여러분의 브라우저를 위한 최고의 크롬 확장기능 여러분의 소중한 개인데이터를 보호하고 모든 웹사이트의 차단을 해제하세요 무료 애드온"
+    },
+    "title": {
+        "message": "VPN Unlimited Browser extension"
+    },
+    "proxy_helper_options" : {
+        "message": "VPN Unlimited Options"
+    }
+}

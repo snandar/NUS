@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="22px" viewBox="0 0 40 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_switch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ic_switch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Switch">
+            <rect id="Rectangle-5" stroke="#B8CDD9" fill="#F7FAFD" x="0.5" y="0.5" width="39" height="21" rx="10.5"></rect>
+            <circle id="Oval" fill="#B8CDD9" cx="11" cy="11" r="9"></circle>
+        </g>
+    </g>
+</svg>

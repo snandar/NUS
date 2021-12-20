@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-23" x="0" y="0" width="26" height="26"></rect>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="15.234375 13 24.9166667 22.6822917 22.6822917 24.9166667 13 15.234375 3.31770833 24.9166667 1.08333333 22.6822917 10.765625 13 1.08333333 3.31770833 3.31770833 1.08333333 13 10.765625 22.6822917 1.08333333 24.9166667 3.31770833"></polygon>
+        </g>
+    </g>
+</svg>

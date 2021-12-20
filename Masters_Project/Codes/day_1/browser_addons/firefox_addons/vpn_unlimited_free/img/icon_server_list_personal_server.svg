@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="26px" viewBox="0 0 23 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_server_list_personal_server</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5_Servers_list" transform="translate(-24.000000, -119.000000)">
+            <g id="item2" transform="translate(0.000000, 120.000000)">
+                <g id="icon_server_list_personal_server" transform="translate(24.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(2.038472, 1.343194)">
+                        <path d="M10.3900998,4.94894836 L10.3900998,21.9167713" id="Line" stroke="#D6D6D6" stroke-width="0.857142857" stroke-linecap="square"></path>
+                        <path d="M16.3980081,21.9167713 L3.90933561,21.9167713" id="Line" stroke="#D6D6D6" stroke-width="0.857142857" stroke-linecap="round"></path>
+                        <g id="Group" transform="translate(0.518199, 0.636293)">
+                            <rect id="Rectangle-path" fill="#00AAFF" x="0" y="0.494894836" width="19.743801" height="4.10055722" rx="0.342857148"></rect>
+                            <rect id="Rectangle-path" fill="#00AAFF" x="0" y="6.64573066" width="19.743801" height="4.10055722" rx="0.342857148"></rect>
+                            <rect id="Rectangle-path" fill="#00AAFF" x="0" y="12.7965665" width="19.743801" height="4.10055722" rx="0.342857148"></rect>
+                            <g transform="translate(15.587211, 1.025139)" id="Oval" fill="#FFFFFF">
+                                <ellipse cx="1.03914742" cy="1.52003414" rx="1.03914742" ry="1.0251393"></ellipse>
+                                <ellipse cx="1.03914742" cy="7.67086996" rx="1.03914742" ry="1.0251393"></ellipse>
+                                <ellipse cx="1.03914742" cy="13.8217058" rx="1.03914742" ry="1.0251393"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M6,11.3731647 C9.07701503,11.3731647 11.5714286,8.86441549 11.5714286,5.76971646 C11.5714286,2.67501743 9.07701503,0.166268184 6,0.166268184 C2.92298497,0.166268184 0.428571429,2.67501743 0.428571429,5.76971646 C0.428571429,8.86441549 2.92298497,11.3731647 6,11.3731647 Z" id="Oval-753" stroke="#00AAFF" stroke-width="0.857142857" fill="#FFFFFF"></path>
+                    <g id="user-shape" transform="translate(2.571429, 2.752475)" fill="#8FCD3A">
+                        <g id="Capa_1" transform="translate(0.428571, 0.000000)">
+                            <g id="person">
+                                <path d="M3.07390708,2.81176597 C3.84238385,2.81176597 4.47113757,2.17911862 4.47113757,1.40588298 C4.47113757,0.632647343 3.84238385,0 3.07390708,0 C2.30543031,0 1.67667659,0.632647343 1.67667659,1.40588298 C1.67667659,2.17911862 2.30543031,2.81176597 3.07390708,2.81176597 L3.07390708,2.81176597 Z M3.07390708,3.51470746 C2.1307765,3.51470746 0.279446098,3.97161943 0.279446098,4.92059044 L0.279446098,5.62353193 L5.86836806,5.62353193 L5.86836806,4.92059044 C5.86836806,3.97161943 4.01703766,3.51470746 3.07390708,3.51470746 L3.07390708,3.51470746 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <ellipse id="Oval-728" fill="#D8D8D8" cx="12.4285714" cy="23.2758621" rx="1.28571429" ry="1.29310345"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

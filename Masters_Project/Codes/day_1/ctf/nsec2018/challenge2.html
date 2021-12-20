@@ -1,0 +1,47 @@
+
+<html>
+<head>
+
+</head>
+<body>
+  <form id="form">
+    <label for="username">Username:</label><input id="username" name="username" type="text" />
+    <label for="password">Password:</label><input id="password" name="password" type="text" />
+    <input type="submit" disabled="disabled" id="submit" />
+    <div id="message"></div>
+  </form>
+
+<script>
+function init() {
+  var button = document.getElementById('submit');
+  button.removeAttribute('disabled');
+  var form = document.getElementById('form');
+  var message = document.getElementById('message');
+  var authenticate = function(username, password) {
+    return Module.ccall('authenticate', 'boolean', ['string', 'string'], [username, password])
+  }
+  form.addEventListener('submit', function(event) {
+    event.preventDefault();
+    var username = document.getElementById('username').value;
+    var password = document.getElementById('password').value;
+    if (authenticate(username, password)) {
+      message.innerHTML = `
+        <div>Successfuly authenticated: FLAG-${password}</div>
+        <a href="./challenge3.html">--&gt; Next security layer &lt;--</a>
+      `;
+    } else {
+      message.textContent = 'Invalid credentials';
+    }
+    return false;
+  }, true);
+}
+
+var Module = {
+  onRuntimeInitialized: init
+};
+
+</script>
+<script src="challenge2.js"></script>
+
+</body>
+</html>

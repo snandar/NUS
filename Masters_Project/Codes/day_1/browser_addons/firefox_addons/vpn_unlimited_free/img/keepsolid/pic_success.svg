@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>img_registration</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="80.9789466%" y1="9.15961013%" x2="16.9530273%" y2="84.1490119%" id="linearGradient-1">
+            <stop stop-color="#4DADDD" offset="0%"></stop>
+            <stop stop-color="#0097E4" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="55" cy="55" r="55"></circle>
+        <filter x="-28.6%" y="-28.6%" width="157.3%" height="157.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.14052625   0 0 0 0 0.324086182   0 0 0 0 0.668261054  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="55" cy="55" r="45"></circle>
+        <filter x="-33.3%" y="-33.3%" width="166.7%" height="166.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.14052625   0 0 0 0 0.324086182   0 0 0 0 0.668261054  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="img_registration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(59.000000, 59.000000)">
+            <rect id="Rectangle-23" x="0" y="2" width="24" height="24"></rect>
+        </g>
+        <g id="picture">
+            <g id="Oval-12" opacity="0.05">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval-12-Copy" opacity="0.05">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <path d="M16.7406285,53.1158177 C15.8074462,52.2430494 15.7478067,50.7544946 16.6089114,49.8089957 L26.9533295,38.4419971 C27.8141152,37.4955284 29.2818202,37.4363741 30.2150025,38.3088191 L48.1766884,55.1063758 C49.1095517,55.9788209 50.531969,55.8786141 51.3359856,54.8826886 L86.1016501,11.8548897 C86.9053478,10.8586408 88.3673121,10.7115632 89.3502471,11.5274399 L101.157267,21.3273346 C102.138927,22.1425648 102.284677,23.6240081 101.480022,24.6192872 L53.3592626,84.1818426 C52.555246,85.1777682 51.1331476,85.2786214 50.1999653,84.4064996 L16.7406285,53.1158177" id="Fill-6" fill="#16A9FC"></path>
+        </g>
+    </g>
+</svg>

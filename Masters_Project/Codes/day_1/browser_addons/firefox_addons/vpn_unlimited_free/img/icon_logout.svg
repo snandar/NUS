@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_logout</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 22 0 22 22 0 22"></polygon>
+    </defs>
+    <g id="Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5_Settings" transform="translate(-25.000000, -367.000000)">
+            <g id="item4" transform="translate(0.000000, 366.000000)">
+                <g id="icon_logout" transform="translate(25.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M19.555525,0 L2.4443375,0 C1.100275,0 0.000275,1.1 0.000275,2.44475 L0.000275,7.3335625 L2.4443375,7.3335625 L2.4443375,2.44475 L19.555525,2.44475 L19.555525,19.55525 L2.4443375,19.55525 L2.4443375,14.6664375 L0.000275,14.6664375 L0.000275,19.55525 C0.000275,20.9 1.100275,22 2.4443375,22 L19.555525,22 C20.900275,22 22.000275,20.9 22.000275,19.55525 L22.000275,2.44475 C22.000275,1.1 20.900275,0 19.555525,0 L19.555525,0 Z" id="Fill-1" fill="#00AAFF"></path>
+                    <polygon id="Path" fill="#9AD24E" points="8.6779 15.4 10.3890875 17.1111875 16.500275 11 10.3890875 4.8888125 8.6779 6.6 11.855525 9.777625 0.000275 9.777625 0.000275 12.222375 11.855525 12.222375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

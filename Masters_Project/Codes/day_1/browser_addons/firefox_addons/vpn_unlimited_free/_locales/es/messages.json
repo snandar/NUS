@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "VPN Unlimited: Proxy Seguro y Gratuito"
+    },
+    "appDesc": {
+        "message": "VPN Unlimited: la mejor extensión para tu navegador Chrome Protege tus valiosos datos privados y desbloquea cualquier web Gratuita"
+    },
+    "title": {
+        "message": "VPN Unlimited Extensi?n para el navegador"
+    },
+    "proxy_helper_options" : {
+        "message": "VPN Unlimited Options"
+    }
+}

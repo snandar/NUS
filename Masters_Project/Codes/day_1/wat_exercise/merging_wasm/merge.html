@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fibonacci example 2</title>
+  </head>
+  <body>
+    <script>
+    let fib;
+    let hello;
+
+    function loadWebAssembly(fileName) {
+      return fetch(fileName)
+        .then(response => response.arrayBuffer())
+        .then(bits => WebAssembly.compile(bits))
+        .then(module => { return new WebAssembly.Instance(module, {}) });
+    };
+
+    function utf8ToString(membuf, p) {
+      let s = "";
+      for (i = p; membuf[i]; i++) {
+        s += String.fromCharCode(membuf[i]);
+      }
+      return s;
+    }
+      
+    loadWebAssembly('merge.wasm')
+      .then(instance => {
+        fib = instance.exports.fib;
+        hello = instance.exports.hello;
+          console.log('fib(6) = ', fib(6)); // "8"
+          var membuf = new Uint8Array(results.instance.exports.memory.buffer);
+          console.log('hello = ', utf8ToString(membuf, hello()));
+      });
+    </script>
+  </body>
+</html>

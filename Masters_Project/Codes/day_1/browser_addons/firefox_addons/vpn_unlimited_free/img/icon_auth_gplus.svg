@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_auth_gplus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="36" rx="100"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1_Auth" transform="translate(-160.000000, -396.000000)">
+            <g id="icon_auth_gplus" transform="translate(160.000000, 396.000000)">
+                <use id="Rectangle-39" stroke="#EBEBEB" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M15.2293988,17.2012265 L15.2293988,19.2759314 C15.2293988,19.2759314 17.2384149,19.2734833 18.0564648,19.2734833 C17.6133714,20.6182675 16.9246592,21.3506363 15.2293988,21.3506363 C13.5137382,21.3506363 12.1746661,19.9572996 12.1746661,18.2387829 C12.1746661,16.5198583 13.5137382,15.1265215 15.2293988,15.1265215 C16.1363937,15.1265215 16.7222887,15.4459894 17.2596312,15.8911227 C17.6896684,15.4602695 17.6537639,15.3990688 18.7480331,14.3635524 C17.8190059,13.5165342 16.5843831,13 15.2293988,13 C12.3415401,13 10,15.3452122 10,18.2387829 C10,21.1319457 12.3415401,23.4771578 15.2293988,23.4771578 C19.5460906,23.4771578 20.6011913,19.7116806 20.2515311,17.2012265 L15.2293988,17.2012265 Z M24.652272,17.3048597 L24.652272,15.4896459 L23.3580804,15.4896459 L23.3580804,17.3048597 L21.493906,17.3048597 L21.493906,18.6014993 L23.3580804,18.6014993 L23.3580804,20.4689377 L24.652272,20.4689377 L24.652272,18.6014993 L26.4642217,18.6014993 L26.4642217,17.3048597 L24.652272,17.3048597 Z" id="Google+" fill="#F24033"></path>
+            </g>
+        </g>
+    </g>
+</svg>
